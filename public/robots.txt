@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /payment
+Disallow: /booking
+
+Sitemap: https://sky-ahs.com/sitemap.xml
